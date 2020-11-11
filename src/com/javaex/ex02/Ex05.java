@@ -33,7 +33,10 @@ public class Ex05 {
 		System.out.println("테스트");
 		System.out.println("테스트");
 		System.out.println("테스트");
-		
+		System.out.println("테스트");
+		System.out.println("테스트");
+		System.out.println("테스트");
+		System.out.println("테스트");
 		sc.close();
 
 	}
